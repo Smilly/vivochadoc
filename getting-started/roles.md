@@ -13,7 +13,10 @@ Vivocha is a **customer relationship interaction software** that allows companie
 
 ## Roles
 
-Vivocha provides different roles defined in a gerarchic way, with different attribution and powers. For each one of this roles there is a guide. The guides are structurated in a hierarchical way. Everything said for the role before is valid for the following too. So, for example, if you are a supervisor you have to consider valid everything is written in administrator and agent guides. \[block:image\] { "images": \[ { "image": \[ "[https://files.readme.io/6409e04-vivocha-roles.png](https://files.readme.io/6409e04-vivocha-roles.png)", "vivocha-roles.png", 727, 743, "\#516c72" \] } \] } \[/block\]
+Vivocha provides different roles defined in a gerarchic way, with different attribution and powers. For each one of this roles there is a guide. The guides are structurated in a hierarchical way. Everything said for the role before is valid for the following too. So, for example, if you are a supervisor you have to consider valid everything is written in administrator and agent guides.
+
+https://raw.githubusercontent.com/
+
 
 ### Auditor
 
