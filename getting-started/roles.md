@@ -23,7 +23,7 @@ Vivocha provides different roles defined in a gerarchic way, with different attr
 
 At the base of the hierarchical pyramid there is the **auditor**, also called _analyst_, whose role is to **analyze reports** containing all the dates about agents performance and services.
 
-### Agent
+### Agent 
 
 Just above the auditor we can find the **agent**, role who has the task of managing incoming contacts. The agent powers allow him only to **manage** and **transfer contacts**, as well as **analyze his performance**.
 
