@@ -15,7 +15,11 @@ Vivocha is a **customer relationship interaction software** that allows companie
 
 Vivocha provides different roles defined in a gerarchic way, with different attribution and powers. For each one of this roles there is a guide. The guides are structurated in a hierarchical way. Everything said for the role before is valid for the following too. So, for example, if you are a supervisor you have to consider valid everything is written in administrator and agent guides.
 
-https://raw.githubusercontent.com/
+
+
+| ![Overview]https://raw.githubusercontent.com/vivocha/bot-sdk/fd208ab2/docs/vivocha-bot-sdk.svg) |
+| :-----------------------------------------------------------------------------------: |
+|              **FIGURE 1 - Overview of the main modules of the Bot SDK**               |
 
 
 ### Auditor
