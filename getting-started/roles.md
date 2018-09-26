@@ -5,8 +5,6 @@ excerpt: ''
 
 # Roles
 
-[Software overview](roles.md#section-software-overview) [Roles](roles.md#section-roles) [Auditor](roles.md#section-auditor) [Agent](roles.md#section-agent) [Supervisor](roles.md#section-supervisor) [Administrator](roles.md#section-administrator)
-
 ## Software Overview
 
 Vivocha is a **customer relationship interaction software** that allows companies to assist their website visitors during every moment of the navigation or the purchase. Vivocha allows to assist customers through different media channels. It is possible offer to the customer a more traditional support by chat or interact with him through a call \(online or not\) or a videocall. Vivocha supports also the integration of lots of third part apps and services.
