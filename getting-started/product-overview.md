@@ -6,8 +6,8 @@ excerpt: This page will help you get started with the Vivocha Platform
 # Product overview
 
 {% hint style="info" %}
-**If you currently run a previous major version of the Platform, please refer to relative documentation sites:**\n
-[Vivocha 5.0](http://docs.vivocha.com/v5.0/docs) - your domain is mX.vivocha.com\n
+**If you currently run a previous major version of the Platform, please refer to relative documentation sites:**  
+[Vivocha 5.0](http://docs.vivocha.com/v5.0/docs) - your domain is mX.vivocha.com  
 [Vivocha 5.2](http://docs.vivocha.com/v5.2/docs) - your domain is nX.vivocha.com
 {% endhint %}
 
